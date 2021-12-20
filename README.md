@@ -2,7 +2,14 @@
 
 I'm Matthieu Siegel, a passionate Web Developer student 💻.
 
-- 🌱 I’m currently learning about <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60">, 
+- 🌱 I’m currently learning about JavaScript, NodeJS and ReactJS.
+- 💬 Ask me about anything.
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matthieu-siegel-20120654/)
+<img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+
+
+<hr>
 <!--
 **ImNotAOwl/ImNotAOwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
