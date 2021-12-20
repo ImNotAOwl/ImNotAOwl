@@ -6,7 +6,7 @@ I'm Matthieu Siegel, a passionate Web Developer student 💻.
 - 💬 Ask me about anything.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matthieu-siegel-20120654/)
-<img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+[<img src="https://img.shields.io/badge/instagram-%C32AA3.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/matt.siegel/)
 
 
 <hr>
