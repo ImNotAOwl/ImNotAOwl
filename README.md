@@ -4,7 +4,6 @@ I'm Matthieu Siegel, a passionate Web Developer student 💻.
 
 - 🌱 I’m currently learning about JavaScript, NodeJS and ReactJS.
 - 💬 Ask me about anything.
-<hr>
 
 🤝 &nbsp; Connect with Me
 
