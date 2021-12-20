@@ -1,5 +1,4 @@
 <h1 align="center"> Hi! I'm Matthieu 👋 </h1>
-<img src="layered-waves-haikei.svg"/>
 
 I'm Matthieu Siegel, a passionate Web Developer student 💻.
 
