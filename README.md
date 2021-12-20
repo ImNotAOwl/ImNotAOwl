@@ -1,3 +1,5 @@
+<p  align="center"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="550"/></p>
+
 <h1 align="center"> Hi! I'm Matthieu 👋 </h1>
 
 I'm Matthieu Siegel, a passionate Web Developer student 💻.
