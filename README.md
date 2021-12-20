@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Matthieu Siegel
+### Hi! I'm Matthieu Siegel 👋
 
 <!--
 **ImNotAOwl/ImNotAOwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
