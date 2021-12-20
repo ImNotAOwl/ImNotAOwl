@@ -7,6 +7,7 @@ I'm Matthieu Siegel, a passionate Web Developer student 💻.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matthieu-siegel-20120654/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/matt.siegel/)
+[<a href="mailto:siegel.matthieu@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>]
 
 
 <hr>
