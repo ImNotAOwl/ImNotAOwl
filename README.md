@@ -1,6 +1,6 @@
 <p  align="center"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450"/></p>
 
-<h1 align="center"> Hi! I'm Matthieu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="center"> Hi! I'm Matthieu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> </h1>
 
 I'm Matthieu Siegel, a passionate Web Developer student 💻.
 
