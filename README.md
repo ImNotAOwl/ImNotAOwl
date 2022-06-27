@@ -5,7 +5,7 @@
 I'm Matthieu Siegel, a passionate Web Developer student 💻.
 
 - 🔭 I’m currently working on improve my skills in JavaScript, NodeJS and ReactJS.
-- ⚡ Most used line of code `git commit -m " "`.
+- ⚡ Most used line of code `git commit -m "typo"`.
 - 💬 Ask me about anything.
 
 🤝 &nbsp; Connect with Me
@@ -17,7 +17,7 @@ I'm Matthieu Siegel, a passionate Web Developer student 💻.
 
 <hr>
 
-### Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+### Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px" height="25px">
 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"> |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -25,7 +25,7 @@ I'm Matthieu Siegel, a passionate Web Developer student 💻.
 
 <hr>
 
-### Git Analytics <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+### Git Analytics <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="25px">
  
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImNotAOwl&theme=dark&layout=compact" width="410" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ImNotAOwl&theme=dark&show_icons=true" /></p>
